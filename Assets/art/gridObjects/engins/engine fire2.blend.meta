@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 8f5e3491fa6249940879952c8f178ec8
+timeCreated: 1431722266
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: boiler
+    100002: boiler_plate
+    100004: Cube
+    100006: engine
+    100008: //RootNode
+    100010: engine_twist
+    100012: lighting_system_parent
+    100014: Lighting_System_V1
+    100016: location_of_elemental_object
+    100018: engine_exaust_R
+    100020: engine_exaust_R_001
+    100022: engine_L
+    100024: engine_R
+    100026: engine_twist_L
+    100028: engine_twist_R
+    100030: engine_exaust_L
+    400000: boiler
+    400002: boiler_plate
+    400004: Cube
+    400006: engine
+    400008: //RootNode
+    400010: engine_twist
+    400012: lighting_system_parent
+    400014: Lighting_System_V1
+    400016: location_of_elemental_object
+    400018: engine_exaust_R
+    400020: engine_exaust_R_001
+    400022: engine_L
+    400024: engine_R
+    400026: engine_twist_L
+    400028: engine_twist_R
+    400030: engine_exaust_L
+    2300000: boiler
+    2300002: boiler_plate
+    2300004: Cube
+    2300006: engine
+    2300008: engine_twist
+    2300010: location_of_elemental_object
+    2300012: engine_L
+    2300014: engine_R
+    2300016: engine_twist_L
+    2300018: engine_twist_R
+    3300000: boiler
+    3300002: boiler_plate
+    3300004: Cube
+    3300006: engine
+    3300008: engine_twist
+    3300010: location_of_elemental_object
+    3300012: engine_L
+    3300014: engine_R
+    3300016: engine_twist_L
+    3300018: engine_twist_R
+    4300000: boiler_plate
+    4300002: engine
+    4300004: engine_twist
+    4300006: boiler
+    4300008: location_of_elemental_object
+    4300010: Cube
+    4300012: engine_twist_L
+    4300014: engine_L
+    4300016: engine_R
+    4300018: engine_twist_R
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: boiler
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

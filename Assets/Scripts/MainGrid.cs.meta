@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c23b818e0fbc234438f0f0a2a8d255fa
+timeCreated: 1427382992
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - selected: {instanceID: 0}
+  - defaltDash: {fileID: 2100000, guid: 6c3d3b1f589de2e49ac97b3118c0a051, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
